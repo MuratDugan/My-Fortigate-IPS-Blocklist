@@ -12,9 +12,9 @@ Ayda yaklaşık 2 milyon IPS olayı görünce, “madem lisans alamıyorum, bari
 
 ## Blocklist Dosyası
 
-Ham IP listesi (ilk 600’lük sürüm):
+Ham IP listesi:
 
-https://raw.githubusercontent.com/MuratDugan/My-Fortigate-IPS-Blocklist/refs/heads/main/blocklistFirst600.txt
+https://raw.githubusercontent.com/MuratDugan/My-Fortigate-IPS-Blocklist/refs/heads/main/blocklist.txt
 
 Dosya sade bir şekilde IP adreslerinden oluşur:
 
