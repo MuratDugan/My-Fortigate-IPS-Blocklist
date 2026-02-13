@@ -1581,8 +1581,6 @@
 46.197.159.105
 46.250.253.208
 48.214.144.31
-Görsellerden ayıkladığım son listeyi aşağıda bulabilirsin. GitHub wordlist dosyan için kaldığın yerden (48.214.144.31 sonrasından) dikey formatta ekleyebilirsin:
-
 50.116.26.161
 51.178.247.37
 52.165.81.64
